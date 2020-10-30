@@ -2,6 +2,8 @@
 leanguage: python
 additional libraries: numpy, scipy, opencv
 
+Assigned in an image processinng course
+
 Adding and detecting watermark to a black and white image on space and dct domains.
 
 Watermark is a pseudo-random pattern whose dimentions are equal to those of the image.
