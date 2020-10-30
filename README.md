@@ -2,7 +2,7 @@
 leanguage: python
 additional libraries: numpy, scipy, opencv
 
-Assigned in an image processinng course
+Assigned during an image processing course
 
 Adding and detecting watermark to a black and white image on space and dct domains.
 
